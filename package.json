@@ -1,0 +1,15 @@
+{
+  "name": "github-payload",
+  "version": "1.0.0",
+  "description": "a simple server using GitHub API to return user info",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
